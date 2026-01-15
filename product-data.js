@@ -16,10 +16,10 @@ const defaultProduct = {
     "RTX 5060 8GB"
   ],
   images: [
-    "/images/product1.jpg",
-    "/images/product2.jpg",
-    "/images/product3.jpg",
-    "/images/product4.jpg"
+    "/images/product1.jpeg",
+    "/images/product2.jpeg",
+    "/images/product3.jpeg",
+    "/images/product4.jpeg"
   ],
   delivery: "🚚 Estimasi tiba 2–4 hari kerja"
 };
