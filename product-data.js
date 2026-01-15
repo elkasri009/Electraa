@@ -1,6 +1,6 @@
 const defaultProduct = {
   name: "HP OMEN 16-AP0176AX",
-  price: 19300000,
+  price: 1930000,
   oldPrice: 23399000,
   currency: "Rp ",
   rating: 4.9,
